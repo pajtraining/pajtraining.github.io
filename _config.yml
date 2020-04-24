@@ -1,3 +1,8 @@
 theme: jekyll-theme-minimal
 title: PajTraining
 description: Training materials
+gems: ['jekyll-emoji']
+emoji:
+  format: emojione-svg # default html
+  ascii: true # default false
+  shortname: true # default true
