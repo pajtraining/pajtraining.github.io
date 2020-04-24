@@ -1,4 +1,4 @@
-# pajtraining.github.io
+# PajTraining
 
 
 ## Credit for the organisation icon
