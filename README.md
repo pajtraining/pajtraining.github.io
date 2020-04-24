@@ -2,7 +2,7 @@
 
 This page provides information about different courses available:
 - [Introduction to solving biological problems with Python](#[Introduction_to_solving_biological_problems_with_Python])
--[Data science in Python](#Data_science_in_Python)
+- [Data science in Python](#Data_science_in_Python)
 
 
 ### Introduction to solving biological problems with Python
