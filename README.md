@@ -1,4 +1,4 @@
-# PajTraining
+# Paj Training course website
 
 
 ## Credit for the organisation icon
