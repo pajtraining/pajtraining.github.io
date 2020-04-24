@@ -1,5 +1,5 @@
 theme: jekyll-theme-minimal
 title: PajTraining
 description: Training materials
-plugins:
+gems:
   - jemoji
