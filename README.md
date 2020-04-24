@@ -1,9 +1,7 @@
-## PajTraining course website
 
-This page provides information about different courses available:
-- [Introduction to solving biological problems with Python](#[Introduction_to_solving_biological_problems_with_Python])
-- [Data science in Python](#Data_science_in_Python)
+:books: Find below a list of training courses brought to you by Anne Pajon [@pajanne](https://github.com/pajanne).
 
+:speech_balloon: Please do not hesitate to [ask me questions on GitHub](https://github.com/pajtraining/ask-questions/issues/new) or [join me on Slack](https://pajtraining.slack.com) for training related support.
 
 ### Introduction to solving biological problems with Python
 
@@ -38,19 +36,6 @@ This page provides information about different courses available:
 - **Schedule**:
   - [Day 1 - Aims, objectives and course schedule](https://github.com/pajtraining/python-data-science/blob/master/10_python_data_intro.ipynb)
   - [Day 2 - Aims, objectives and course schedule](https://github.com/pajtraining/python-data-science/blob/master/20_python_data_intro.ipynb)
-
-### Jupyter notebook
-
-Some of the course materials are available as [Jupyter notebook](http://jupyter.org/) files. Static rendering of the notebooks (that do not support interactively running the examples)
-is available as a service directly from GitHub.
-
-### Exercise solutions
-Example solutions to all of the exercises from the course materials are available from the course repository in the `solutions` folder. The solution scripts are named sequentially for each session.
-
-Note that these solutions are just examples, and there are many 'correct' solutions to these exercises. If you spot any issues or bugs with the solutions, or indeed any of the course materials, please let us know (pull requests are welcome!)
-
-### Presenter/tutor
-- Anne Pajon, former CRUK-CI, University of Cambridge
 
 ### Credit for the organisation icon
 <a style="background-color:black;color:white;text-decoration:none;padding:4px 6px;font-family:-apple-system, BlinkMacSystemFont, &quot;San Francisco&quot;, &quot;Helvetica Neue&quot;, Helvetica, Ubuntu, Roboto, Noto, &quot;Segoe UI&quot;, Arial, sans-serif;font-size:12px;font-weight:bold;line-height:1.2;display:inline-block;border-radius:3px" href="https://unsplash.com/@olloweb?utm_medium=referral&amp;utm_campaign=photographer-credit&amp;utm_content=creditBadge" target="_blank" rel="noopener noreferrer" title="Download free do whatever you want high-resolution photos from Agence Olloweb"><span style="display:inline-block;padding:2px 3px"><svg xmlns="http://www.w3.org/2000/svg" style="height:12px;width:auto;position:relative;vertical-align:middle;top:-2px;fill:white" viewBox="0 0 32 32"><title>unsplash-logo</title><path d="M10 9V0h12v9H10zm12 5h10v18H0V14h10v9h12v-9z"></path></svg></span><span style="display:inline-block;padding:2px 3px">Agence Olloweb</span></a>
