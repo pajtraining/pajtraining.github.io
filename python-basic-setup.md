@@ -4,9 +4,9 @@
 
 This only needs to be done once. To run the course, first download and install these dependencies:
 
-- **Python3**: install Python 3 by downloading the latest version from https://www.python.org/
+- **Python3**: install Python 3 by downloading the latest version from [https://www.python.org/](https://www.python.org/)
 
-- **Git**: install Git by downloading the latest version from https://git-scm.com/downloads
+- **Git**: install Git by downloading the latest version from [https://git-scm.com/downloads](https://git-scm.com/downloads)
 
 Now clone the GitHub repository to copy the course materials onto your computer:
 
@@ -31,7 +31,7 @@ pip install jupyter
 
 Go to the directory where you've cloned this repository, activate your virtual environment and run jupyter.
 
-Your web browser should automatically open with this url http://localhost:8888/tree where you see the directory tree of the course with all the jupyter notebooks.
+Your web browser should automatically open with this url [http://localhost:8888/tree](http://localhost:8888/tree) where you see the directory tree of the course with all the jupyter notebooks.
 
 ```bash
 cd python-basic
